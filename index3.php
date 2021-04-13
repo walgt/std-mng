@@ -2,10 +2,11 @@
 
 session_start();
 
-$servername = "localhost";
-$username = "root";
-$password = "aptx4869B";
+$servername = "XXXX";
+$username = "XXXX";
+$password = "XXXX";
 $dbname = "atelier";
+
 
 
 
